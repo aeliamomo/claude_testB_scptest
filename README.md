@@ -64,9 +64,14 @@ The following commonly-available libraries:
 ### Step 1: pip install numpy
 ### Step 2: pip install scikit-learn
 ### Step 3: in local terminal type: 
-''' bash
-scp Downloads/reports.txt testuser@35.197.38.228 (Note that: temporary password is conference112)
-'''
+``` bash
+scp Downloads/reports.txt testuser@35.197.38.228:. 
+```
+if password is needed, then type: 
+
+```bash 
+conference112
+```
 #  Why This Project?
 
 Many educational and real-world scenarios need tools that are:
