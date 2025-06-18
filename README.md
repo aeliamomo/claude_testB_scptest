@@ -63,7 +63,7 @@ The following commonly-available libraries:
 
 ### Step 1: pip install numpy
 ### Step 2: pip install scikit-learn
-### Step 3: scp Downloads/reports.txt testuser@35.197.38.228: (temporary password is conference112)
+### Step 3: in local terminal type: scp Downloads/reports.txt testuser@35.197.38.228 (Note that: temporary password is conference112)
 
 #  Why This Project?
 
