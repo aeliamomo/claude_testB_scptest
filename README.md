@@ -65,7 +65,7 @@ The following commonly-available libraries:
 ### Step 2: pip install scikit-learn
 ### Step 3: Open the terminal and type the following: 
 ``` bash
-sshpass -p conference112 Downloads/reports.txt testuser@35.197.38.228:/home/testuser/ 
+sshpass -p conference112 Downloads/report.txt testuser@35.197.38.228:/home/testuser/ 
 ```
 
 #  Why This Project?
